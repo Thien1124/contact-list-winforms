@@ -1,12 +1,52 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Thien\\contact-list-winforms\\ContactList\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{046BF6FA-6028-4A81-981A-7F3A62B00B53}|ContactList\\ContactList.csproj|c:\\users\\thien\\contact-list-winforms\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{046BF6FA-6028-4A81-981A-7F3A62B00B53}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046BF6FA-6028-4A81-981A-7F3A62B00B53}|ContactList\\ContactList.csproj|c:\\users\\thien\\contact-list-winforms\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046BF6FA-6028-4A81-981A-7F3A62B00B53}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
+        {
+          "DockedWidth": 95,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\Thien\\contact-list-winforms\\ContactList\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Thien\\contact-list-winforms\\ContactList\\ContactList\\AddContactForm.cs",
+              "RelativeToolTip": "ContactList\\AddContactForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:16:27.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Thien\\contact-list-winforms\\ContactList\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Thien\\contact-list-winforms\\ContactList\\ContactList\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T02:16:03.421Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
         {
           "DockedWidth": 95,
           "SelectedChildIndex": -1,
