@@ -35,18 +35,20 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(258, 128);
+            this.label1.Location = new System.Drawing.Point(387, 200);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(113, 16);
+            this.label1.Size = new System.Drawing.Size(185, 25);
             this.label1.TabIndex = 0;
             this.label1.Text = "Danh sách liên hệ";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // btnLienHe
             // 
-            this.btnLienHe.Location = new System.Drawing.Point(273, 240);
+            this.btnLienHe.Location = new System.Drawing.Point(410, 375);
+            this.btnLienHe.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnLienHe.Name = "btnLienHe";
-            this.btnLienHe.Size = new System.Drawing.Size(113, 23);
+            this.btnLienHe.Size = new System.Drawing.Size(170, 36);
             this.btnLienHe.TabIndex = 1;
             this.btnLienHe.Text = "Thêm liên hệ";
             this.btnLienHe.UseVisualStyleBackColor = true;
@@ -54,14 +56,16 @@
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1200, 703);
             this.Controls.Add(this.btnLienHe);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Name = "MainForm";
             this.Text = "MainForm";
             this.Load += new System.EventHandler(this.MainForm_Load);
+            this.Click += new System.EventHandler(this.MainForm_Click);
             this.ResumeLayout(false);
             this.PerformLayout();
 
